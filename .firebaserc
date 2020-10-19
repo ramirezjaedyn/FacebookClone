@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-9ee8b": {
+      "hosting": {
+        "FireStore": [
+          "firestore-9ee8b"
+        ]
+      }
+    }
+  }
+}
