@@ -2,7 +2,7 @@
   "hosting": [
     {
       "target": "FireStore",
-      "public": "dist/FireStore",
+      "public": "dist",
       "ignore": [
         "**/.*"
       ],
